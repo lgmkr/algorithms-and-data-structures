@@ -1,6 +1,10 @@
-# my pure implementations of several algorithms and data structures
+# Implementations of several algorithms and data structures
+## Data Structures
+- queue
+
+## Algorithms
 ### search
-* binary search 
+- binary search
 
 ### sort
-* insert sort
+- insert sort

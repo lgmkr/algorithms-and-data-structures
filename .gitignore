@@ -3,3 +3,4 @@ python
 *.pyc
 ruby
 .DS_Store
+.vscode
