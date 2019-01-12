@@ -1,0 +1,9 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "0.0.1",
+  "description": " implementations of several algorithms and data structures",
+  "main": "index.js",
+  "repository": "git@github.com:lgmkr/algorithms-and-data-structures.git",
+  "author": "Oleh Makarov <gstancox@gmail.com>",
+  "license": "MIT"
+}
